@@ -2,9 +2,6 @@
 
 > Готовое задание на цифровую олимпиаду «Волга-IT’XXI»
 > 
-# NextCord Documentation on Russian Language
-[Введение](./docs/index.md)
-Откройте страницу Wiki, чтобы увидеть документацию.
 
 ## Описание
 
